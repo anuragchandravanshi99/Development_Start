@@ -1,0 +1,16 @@
+{
+  "name": "fileorganizer",
+  "version": "1.0.0",
+  "main": "organizer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "anurag",
+  "license": "ISC",
+  "preferGlobal": true,
+  "bin": {
+    "myFile": "organizer.js"
+  },
+  "description": ""
+}
